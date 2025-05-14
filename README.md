@@ -1,302 +1,310 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Welcome to Nidhal's Digital Universe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Welcome to Nidhal's Quantum Code Universe <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
+<!-- Animated Matrix Background Header -->
 <div align="center">
-  <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nidhal%20Dhawi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=AI%20Engineer%20%7C%20Cybersecurity%20Specialist%20%7C%20Digital%20Innovator&descSize=18&descAlignY=51" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,10,12,14,16,18,20&height=400&section=header&text=NIDHAL%20DHAWI&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Digital%20Architect%20%7C%20Innovation%20Engineer%20%7C%20Code%20Wizard&descSize=20&descAlignY=55&descAlign=center" />
 </div>
 
-<!-- Typing Animation with Multiple Lines -->
+<!-- Multi-Layer Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&background=000000&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Computer+Systems+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+%26+Cybersecurity+Specialist+%F0%9F%9A%80;Building+Tomorrow's+Solutions+%F0%9F%8C%9F;Welcome+to+My+Digital+Lab+%E2%9A%A1" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=900&height=150&lines=%3C%2F%3E+SYSTEM+ENGINEER+%3C%2F%3E;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%9B%A1%EF%B8%8F+CYBER+GUARDIAN+%F0%9F%9B%A1%EF%B8%8F;%E2%9A%A1+FREELANCE+WIZARD+%E2%9A%A1" alt="Matrix Typing" />
 </div>
 
-<!-- Profile Views with Sparkle Animation -->
+<!-- Animated Visitor Counter Matrix Style -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nidhaldhawi&label=Visitors+%F0%9F%91%80&color=FF6B6B&style=for-the-badge&abbreviated=true" />
-  <img src="https://img.shields.io/github/followers/Nidhaldhawi?label=Followers&style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/Nidhaldhawi?label=Total%20Stars&style=for-the-badge&color=FFE66D&logo=github&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=Nidhaldhawi&label=MATRIX+ENTRIES&color=brightgreen&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/Nidhaldhawi?label=CODE+ALLIES&style=for-the-badge&color=00ff00&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/stars/Nidhaldhawi?label=DIGITAL+STARS&style=for-the-badge&color=ffd700&logo=github&logoColor=black" />
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Matrix Rain Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me - The Person Behind the Code
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE2YzVhZDQ0NGE0ZDIzNGRhZGIzNzhlZTFkODdhZDA1ZTI0N2VhOCZjdD1z/hpXdHPfFI5wTABdDDC/giphy.gif" width="60"> THE DIGITAL ARCHITECT
 
-<table>
+<table align="center">
 <tr>
 <td>
 
-### 🚀 **Current Status**
-```javascript
-const nidhal = {
-  role: "Freelance AI Engineer",
-  location: "Gabes, Tunisia 🇹🇳",
-  status: "Building the Future",
-  currentMood: "Caffeinated ☕",
-  workingOn: [
-    "LLM Integration Platforms",
-    "Computer Vision Systems",
-    "Cybersecurity Solutions"
-  ],
-  learningNow: "Advanced MLOps",
-  askMeAbout: ["AI/ML", "Cybersecurity", "Python"],
-  funFact: "I debug by rubber duck debugging 🦆"
-};
+```yaml
+Personal_OS: 
+  name: "Nidhal Dhawi"
+  version: "2024.12.0"
+  location: "Gabes, Tunisia 🇹🇳"
+  status: "Online & Creating"
+  
+Core_Modules:
+  - AI_Engineer.exe
+  - Cybersecurity_Expert.dll
+  - Full_Stack_Developer.py
+  - Digital_Innovator.js
+  
+Operating_Mode: "Freelance Wizard 🧙‍♂️"
+Last_Updated: "Continuously Learning..."
 ```
 
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2MDI3NWQ0YzIyMzljYzZhOTRhMmQ2NDI3Yjg4ZjE1YTJhZDBmMSZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" />
 
 </td>
 </tr>
 </table>
 
-<!-- Animated Skills Matrix -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=3000&pause=1500&color=00ff41&center=true&vCenter=true&random=false&width=700&lines=Building+Digital+Solutions+Since+2021;Transforming+Ideas+Into+Reality;Code+%2B+Coffee+%3D+Magic;Always+Learning%2C+Always+Growing" alt="Status Update" />
+</div>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> Technology Arsenal
+<!-- Animated Skills Constellation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQzMDI0NzdjZjUzYjBjNzQ3NzNhMDU4YjJjZTllOGU4NjVkY2ZkNCZjdD1z/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> TECHNOLOGY CONSTELLATION
+
+<!-- Animated Skill Galaxies -->
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,sql&theme=dark&perline=6" />
+### 🌟 Core Programming Universe
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css,sql&theme=dark" />
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"> AI/ML Frameworks
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=3" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+### 🚀 AI & Machine Learning Galaxy  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/🧠_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"> Web Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django,bootstrap&theme=dark&perline=6" />
+### 🌐 Web Development Cosmos
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,flask,django,fastapi,bootstrap,tailwind&theme=dark" />
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"> DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,kubernetes&theme=dark&perline=6" />
+### ☁️ Cloud & DevOps Nebula
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark&perline=4" />
+### 🗄️ Database Universe
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,elasticsearch&theme=dark" />
 
-### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"> Cybersecurity Tools
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+### 🛡️ Cybersecurity Arsenal
+<img src="https://img.shields.io/badge/🐧_Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/🎯_Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/🔍_Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/🦈_Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Stats Dashboard -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> GitHub Analytics Dashboard
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> DIGITAL ANALYTICS COMMAND CENTER
+
+<!-- Enhanced Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake.svg">
+    <img alt="🐍 Contribution Snake" src="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Multi-Panel Holographic Stats -->
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhaldhawi&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000,001100,002200&custom_title=⚡%20SYSTEM%20METRICS%20⚡" width="400" />
+</td>
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhaldhawi&theme=chartreuse-dark&hide_border=true&stroke=00ff00&ring=00ff00&fire=ffff00&currStreakLabel=00ff00" width="400" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhaldhawi&layout=donut&theme=chartreuse-dark&hide_border=true&title_color=00ff00&text_color=ffffff&bg_color=000000,001100&custom_title=🧬%20CODE%20DNA%20🧬" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhaldhawi&theme=chartreuse-dark&hide_border=true&area=true&custom_title=📊%20QUANTUM%20ACTIVITY%20MATRIX%20📊&bg_color=000000&color=00ff00&line=00ff00&point=ffff00" />
+
+<!-- 3D Holographic Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Nidhaldhawi&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</div>
+
+<!-- Animated Project Portfolio -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBjOGQzZjk4NmJhYzJkMzM2NjE3YzZjMTI1MjBkYjhiYjY1NzQ2MCZjdD1z/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50"> PROJECT MATRIX
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Holographic Project Cards -->
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI INTELLIGENCE CORE
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=ai-intelligence-core&theme=chartreuse-dark&hide_border=true&bg_color=000000,001100&title_color=00ff00&text_color=ffffff" />
+
+```yaml
+Status: Active
+Type: AI/ML Platform
+Impact: ⚡ High Performance
+Features:
+  - Neural Network Engine
+  - Real-time Processing
+  - Smart Automation
+  - Cloud Integration
+```
+
+[🚀 **LAUNCH**](#) [📁 **SOURCE**](#)
+
+</td>
+<td width="33%" align="center">
+
+### 🛡️ CYBER GUARDIAN SHIELD
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=cyber-guardian-shield&theme=chartreuse-dark&hide_border=true&bg_color=000000,001100&title_color=00ff00&text_color=ffffff" />
+
+```yaml
+Status: Secure
+Type: Security Platform
+Impact: 🔒 Maximum Protection
+Features:
+  - Advanced Encryption
+  - Threat Detection
+  - Access Control
+  - Real-time Monitoring
+```
+
+[🔍 **EXPLORE**](#) [📁 **SOURCE**](#)
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 DIGITAL NEXUS HUB
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=digital-nexus-hub&theme=chartreuse-dark&hide_border=true&bg_color=000000,001100&title_color=00ff00&text_color=ffffff" />
+
+```yaml
+Status: Online
+Type: Web Platform
+Impact: 🌟 Global Reach
+Features:
+  - Responsive Design
+  - API Integration
+  - Modern Architecture
+  - Scalable Infrastructure
+```
+
+[🌍 **VISIT**](#) [📁 **SOURCE**](#)
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/Nidhaldhawi?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_PROJECTS-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+</a>
+
+</div>
+
+<!-- Animated Certifications Matrix -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI3N2VhNjhjOTIwNWU1OGI0MTBlNTJhZGNjMjY4OTY3NDUyNzA2YSZjdD1z/l4FGCOsN8PgVu2QYo/giphy.gif" width="50"> DIGITAL CREDENTIALS VAULT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_CISSP-CERTIFIED-00ff00?style=for-the-badge&logo=isc2&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/🏆_CCNA-CERTIFIED-00ff00?style=for-the-badge&logo=cisco&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/☁️_AWS_ARCHITECT-IN_PROGRESS-ffff00?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/🐍_PYTHON_EXPERT-ADVANCED-00ff00?style=for-the-badge&logo=python&logoColor=black&labelColor=000000" />
+
+</div>
+
+<!-- Interactive Connection Hub -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc3NzZlMjU0ZGUyMGNjOTNkZGVmYzMzNzkyODM3NmE1NzVkNTM5YSZjdD1z/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> QUANTUM CONNECTION NETWORK
+
+<div align="center">
+
+### 🌐 DIGITAL PORTALS
 
 <table>
 <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidhaldhawi&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" />
+<td align="center" width="20%">
+  <a href="https://www.linkedin.com/in/nidhal-dhawi-552b89240/">
+    <img src="https://img.shields.io/badge/🔗_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhaldhawi&theme=radical&hide_border=true&stroke=FF6B6B&ring=4ECDC4&fire=FFE66D&currStreakLabel=FF6B6B" />
+<td align="center" width="20%">
+  <a href="mailto:nidhaldhawi01@gmail.com">
+    <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhaldhawi&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhaldhawi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<!-- 3D Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nidhaldhawi&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
-<!-- Animated Projects Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/3o7aDczpCihci3B0CQ/giphy.gif" width="50"> Featured Projects Galaxy
-
-<div align="center">
-
-<!-- Project Cards with Animated Backgrounds -->
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI Chatbot Platform
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=ai-chatbot-platform&theme=radical&hide_border=true&bg_color=FF6B6B&title_color=FFFFFF&text_color=FFFFFF" />
-
-**Features:**
-- 🚀 LLM Integration (GPT-4, Claude)
-- 🎯 85% Query Resolution Rate
-- ⚡ <30s Response Time
-- 🔗 Multi-platform Integration
-
-[🔗 Explore Project](#) [📁 Source Code](#)
-
+<td align="center" width="20%">
+  <a href="https://github.com/Nidhaldhawi">
+    <img src="https://img.shields.io/badge/🐙_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </td>
-<td width="33%" align="center">
-
-### 👁️ Face Recognition System
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=face-recognition-system&theme=radical&hide_border=true&bg_color=4ECDC4&title_color=FFFFFF&text_color=FFFFFF" />
-
-**Features:**
-- 🎯 96% Accuracy Rate
-- ⚡ 200ms Processing Time
-- 🛡️ Military-grade Security
-- 📈 10,000+ Daily Requests
-
-[🔗 Live Demo](#) [📁 Source Code](#)
-
+<td align="center" width="20%">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎮_DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </td>
-<td width="33%" align="center">
-
-### 🔒 Secure Messaging Platform
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=secure-messaging-platform&theme=radical&hide_border=true&bg_color=FFE66D&title_color=000000&text_color=000000" />
-
-**Features:**
-- 🔐 End-to-End Encryption
-- 🛡️ Zero Security Breaches
-- ⚡ 99.9% Uptime
-- 👥 100+ Active Users
-
-[🔗 Live App](#) [📁 Source Code](#)
-
+<td align="center" width="20%">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🐦_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </td>
 </tr>
 </table>
 
-</div>
-
-<!-- Interactive Skills Radar -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> Skills Mastery Level
-
-<div align="center">
-
-```
-AI & Machine Learning     ████████████████████  95%
-Python Development       ████████████████████  90%
-Cybersecurity            ███████████████████░  85%
-Web Development          ██████████████████░░  80%
-Cloud & DevOps           █████████████████░░░  75%
-Data Science             ████████████████░░░░  70%
-Mobile Development       ███████████████░░░░░  65%
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00ff41&center=true&vCenter=true&random=false&width=600&lines=🚀+Ready+for+Collaboration;🌟+Open+to+New+Opportunities;⚡+Building+the+Future+Together;🧙‍♂️+Code+Wizardry+Available" alt="Collaboration Status" />
 
 </div>
 
-<!-- Animated Certifications -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/l4FGCOsN8PgVu2QYo/giphy.gif" width="50"> Professional Certifications
-
+<!-- Animated Support Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/CISSP-Certified-FF6B6B?style=for-the-badge&logo=isc2&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA-Certified-4ECDC4?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20Progress-FFE66D?style=for-the-badge&logo=amazonaws&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python%20Expert-Advanced-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-<!-- Current Activity -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/3o7abINqIJI8vHQCJi/giphy.gif" width="50"> Real-time Activity
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNhZGUyMzJlYmViZWNiMmVjNmNlYTczMmMwYjIyMzA2N2YzYTE5YSZjdD1z/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50"> SUPPORT THE MISSION
 
 <div align="center">
 
-### 🔥 What I'm Working On Right Now
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Automation+Tools;Developing+Cybersecurity+Solutions;Creating+Next-Gen+Web+Applications;Learning+Advanced+MLOps+Strategies;Contributing+to+Open+Source+Projects" alt="Current Work" />
-
-### 📚 Currently Learning
-- 🧠 Advanced Neural Networks Architecture
-- ☁️ Kubernetes & Container Orchestration  
-- 🔐 Zero Trust Security Architecture
-- 🤖 AutoML & MLOps Pipelines
-- 🌐 Web3 & Blockchain Integration
-
-### 🎯 2024 Goals
-- [ ] Launch 3 AI SaaS Products
-- [ ] Contribute to 10 Open Source Projects
-- [x] Obtain AWS Solutions Architect Certification
-- [ ] Build 1M+ User Application
-- [ ] Speak at Tech Conferences
-
-</div>
-
-<!-- Interactive Contribution Calendar -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Connect With Me
-
-<div align="center">
-
-### 🌐 Find Me Across the Digital Universe
-
-<a href="https://www.linkedin.com/in/nidhal-dhawi-552b89240/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animated=true" />
+<a href="#">
+  <img src="https://img.shields.io/badge/☕_BUY_ME_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
-<a href="mailto:nidhaldhawi01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Nidhaldhawi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="#">
+  <img src="https://img.shields.io/badge/🚀_SPONSOR-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" />
 </a>
 
-### 💌 Let's Build Something Amazing Together!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=500&lines=Open+to+Collaborations;Available+for+Freelance+Projects;Let's+Innovate+Together!" alt="Collaboration" />
+⭐ **STAR MY REPOSITORIES TO POWER UP THE CODE!** ⭐
 
 </div>
 
-<!-- Support Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"> Support My Work
-
+<!-- Animated Footer -->
 <div align="center">
-
-If you like my projects and want to support my work:
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
-</a>
-
-⭐ Star my repositories if you find them helpful!
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,10,12,14,16,18,20&height=300&section=footer&text=SYSTEM_SHUTDOWN_COMPLETE&fontSize=30&fontColor=00ff00&animation=fadeIn&fontAlignY=70&desc=Thank%20you%20for%20accessing%20the%20mainframe&descSize=16&descAlignY=85&descAlign=center" />
 </div>
 
-<!-- Footer Animation -->
+<!-- Matrix Rain Quote -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Let's%20create%20the%20future%20together&descSize=16&descAlignY=85" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 </div>
 
-<!-- Quote of the Day -->
+<!-- Final Animated Messages -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=16&duration=4000&pause=2000&color=00ff41&center=true&vCenter=true&random=true&width=800&lines=%3E_+System+logout+successful...;%3E_+Remember:+There+is+no+spoon+🥄;%3E_+May+the+source+be+with+you+⚡;%3E_+Keep+the+matrix+running...;%3E_+Powered+by+curiosity+%26+caffeine+☕;%3E_+Exit+code:+SUCCESS+✨" alt="Matrix Exit" />
 </div>
 
-<!-- Fun Animated Elements -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&random=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Happy+coding!+%F0%9F%9A%80;May+the+code+be+with+you!+%E2%9C%A8;Keep+learning%2C+keep+growing!+%F0%9F%8C%B1;Built+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;Powered+by+curiosity+and+caffeine!+%E2%9A%A1" alt="Random Footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100">
 </div>
