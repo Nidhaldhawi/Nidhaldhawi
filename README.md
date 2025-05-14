@@ -101,13 +101,9 @@ Last_Updated: "Continuously Learning..."
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> DIGITAL ANALYTICS COMMAND CENTER
 
-<!-- Enhanced Snake Animation -->
+<!-- Enhanced Contribution Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake.svg">
-    <img alt="🐍 Contribution Snake" src="https://raw.githubusercontent.com/Nidhaldhawi/Nidhaldhawi/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhaldhawi&bg_color=000000&color=ffffff&line=00d4ff&point=ffaa00&area=true&hide_border=true&custom_title=🐍%20CONTRIBUTION%20SNAKE%20ANIMATION%20🐍" alt="Contribution Snake" />
 </div>
 
 <!-- Multi-Panel Blue Theme Stats -->
