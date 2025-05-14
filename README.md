@@ -1,23 +1,23 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Welcome to Nidhal's Quantum Code Universe <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<!-- Animated Matrix Background Header -->
+<!-- Animated Blue Tech Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,10,12,14,16,18,20&height=400&section=header&text=NIDHAL%20DHAWI&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Digital%20Architect%20%7C%20Innovation%20Engineer%20%7C%20Code%20Wizard&descSize=20&descAlignY=55&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18&height=400&section=header&text=NIDHAL%20DHAWI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Architect%20%7C%20Innovation%20Engineer%20%7C%20Code%20Wizard&descSize=20&descAlignY=55&descAlign=center" />
 </div>
 
-<!-- Multi-Layer Typing Animation -->
+<!-- Multi-Layer Typing Animation with White Theme -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=900&height=150&lines=%3C%2F%3E+SYSTEM+ENGINEER+%3C%2F%3E;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%9B%A1%EF%B8%8F+CYBER+GUARDIAN+%F0%9F%9B%A1%EF%B8%8F;%E2%9A%A1+FREELANCE+WIZARD+%E2%9A%A1" alt="Matrix Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=900&height=150&lines=%3C%2F%3E+SYSTEM+ENGINEER+%3C%2F%3E;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%9B%A1%EF%B8%8F+CYBER+GUARDIAN+%F0%9F%9B%A1%EF%B8%8F;%E2%9A%A1+FREELANCE+WIZARD+%E2%9A%A1" alt="White Typing" />
 </div>
 
-<!-- Animated Visitor Counter Matrix Style -->
+<!-- Animated Visitor Counter Blue Style -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nidhaldhawi&label=MATRIX+ENTRIES&color=brightgreen&style=for-the-badge&abbreviated=true" />
-  <img src="https://img.shields.io/github/followers/Nidhaldhawi?label=CODE+ALLIES&style=for-the-badge&color=00ff00&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/github/stars/Nidhaldhawi?label=DIGITAL+STARS&style=for-the-badge&color=ffd700&logo=github&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=Nidhaldhawi&label=MATRIX+ENTRIES&color=blue&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/Nidhaldhawi?label=CODE+ALLIES&style=for-the-badge&color=0086ff&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Nidhaldhawi?label=DIGITAL+STARS&style=for-the-badge&color=4da6ff&logo=github&logoColor=white" />
 </div>
 
-<!-- Animated Matrix Rain Separator -->
+<!-- Animated Blue Tech Separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
@@ -55,7 +55,7 @@ Last_Updated: "Continuously Learning..."
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=3000&pause=1500&color=00ff41&center=true&vCenter=true&random=false&width=700&lines=Building+Digital+Solutions+Since+2021;Transforming+Ideas+Into+Reality;Code+%2B+Coffee+%3D+Magic;Always+Learning%2C+Always+Growing" alt="Status Update" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Building+Digital+Solutions+Since+2021;Transforming+Ideas+Into+Reality;Code+%2B+Coffee+%3D+Magic;Always+Learning%2C+Always+Growing" alt="Status Update" />
 </div>
 
 <!-- Animated Skills Constellation -->
@@ -110,25 +110,25 @@ Last_Updated: "Continuously Learning..."
   </picture>
 </div>
 
-<!-- Multi-Panel Holographic Stats -->
+<!-- Multi-Panel Blue Theme Stats -->
 <div align="center">
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidhaldhawi&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000,001100,002200&custom_title=⚡%20SYSTEM%20METRICS%20⚡" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhaldhawi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=000000,001a33,003366&custom_title=⚡%20SYSTEM%20METRICS%20⚡" width="400" />
 </td>
 <td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhaldhawi&theme=chartreuse-dark&hide_border=true&stroke=00ff00&ring=00ff00&fire=ffff00&currStreakLabel=00ff00" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhaldhawi&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ffaa00&currStreakLabel=00d4ff" width="400" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhaldhawi&layout=donut&theme=chartreuse-dark&hide_border=true&title_color=00ff00&text_color=ffffff&bg_color=000000,001100&custom_title=🧬%20CODE%20DNA%20🧬" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhaldhawi&layout=donut&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=000000,001a33&custom_title=🧬%20CODE%20DNA%20🧬" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhaldhawi&theme=chartreuse-dark&hide_border=true&area=true&custom_title=📊%20QUANTUM%20ACTIVITY%20MATRIX%20📊&bg_color=000000&color=00ff00&line=00ff00&point=ffff00" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhaldhawi&theme=tokyo-night&hide_border=true&area=true&custom_title=📊%20QUANTUM%20ACTIVITY%20MATRIX%20📊&bg_color=000000&color=00d4ff&line=00d4ff&point=ffaa00" />
 
-<!-- 3D Holographic Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Nidhaldhawi&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<!-- 3D Blue Theme Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Nidhaldhawi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 <!-- Animated Project Portfolio -->
@@ -140,13 +140,13 @@ Last_Updated: "Continuously Learning..."
 
 <div align="center">
 
-<!-- Holographic Project Cards -->
+<!-- Blue Theme Project Cards -->
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 🤖 AI INTELLIGENCE CORE
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=ai-intelligence-core&theme=chartreuse-dark&hide_border=true&bg_color=000000,001100&title_color=00ff00&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=ai-intelligence-core&theme=tokyonight&hide_border=true&bg_color=000000,001a33&title_color=00d4ff&text_color=ffffff" />
 
 ```yaml
 Status: Active
@@ -165,7 +165,7 @@ Features:
 <td width="33%" align="center">
 
 ### 🛡️ CYBER GUARDIAN SHIELD
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=cyber-guardian-shield&theme=chartreuse-dark&hide_border=true&bg_color=000000,001100&title_color=00ff00&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=cyber-guardian-shield&theme=tokyonight&hide_border=true&bg_color=000000,001a33&title_color=00d4ff&text_color=ffffff" />
 
 ```yaml
 Status: Secure
@@ -184,7 +184,7 @@ Features:
 <td width="33%" align="center">
 
 ### 🌐 DIGITAL NEXUS HUB
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=digital-nexus-hub&theme=chartreuse-dark&hide_border=true&bg_color=000000,001100&title_color=00ff00&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nidhaldhawi&repo=digital-nexus-hub&theme=tokyonight&hide_border=true&bg_color=000000,001a33&title_color=00d4ff&text_color=ffffff" />
 
 ```yaml
 Status: Online
@@ -204,7 +204,7 @@ Features:
 </table>
 
 <a href="https://github.com/Nidhaldhawi?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_PROJECTS-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_PROJECTS-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
 </a>
 
 </div>
@@ -218,10 +218,10 @@ Features:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_CISSP-CERTIFIED-00ff00?style=for-the-badge&logo=isc2&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/🏆_CCNA-CERTIFIED-00ff00?style=for-the-badge&logo=cisco&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/☁️_AWS_ARCHITECT-IN_PROGRESS-ffff00?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/🐍_PYTHON_EXPERT-ADVANCED-00ff00?style=for-the-badge&logo=python&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/🏆_CISSP-CERTIFIED-ffffff?style=for-the-badge&logo=isc2&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/🏆_CCNA-CERTIFIED-ffffff?style=for-the-badge&logo=cisco&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/☁️_AWS_ARCHITECT-IN_PROGRESS-ffaa00?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/🐍_PYTHON_EXPERT-ADVANCED-ffffff?style=for-the-badge&logo=python&logoColor=black&labelColor=000000" />
 
 </div>
 
@@ -266,7 +266,7 @@ Features:
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00ff41&center=true&vCenter=true&random=false&width=600&lines=🚀+Ready+for+Collaboration;🌟+Open+to+New+Opportunities;⚡+Building+the+Future+Together;🧙‍♂️+Code+Wizardry+Available" alt="Collaboration Status" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=🚀+Ready+for+Collaboration;🌟+Open+to+New+Opportunities;⚡+Building+the+Future+Together;🧙‍♂️+Code+Wizardry+Available" alt="Collaboration Status" />
 
 </div>
 
@@ -292,17 +292,17 @@ Features:
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,10,12,14,16,18,20&height=300&section=footer&text=SYSTEM_SHUTDOWN_COMPLETE&fontSize=30&fontColor=00ff00&animation=fadeIn&fontAlignY=70&desc=Thank%20you%20for%20accessing%20the%20mainframe&descSize=16&descAlignY=85&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18&height=300&section=footer&text=SYSTEM_SHUTDOWN_COMPLETE&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70&desc=Thank%20you%20for%20accessing%20the%20mainframe&descSize=16&descAlignY=85&descAlign=center" />
 </div>
 
-<!-- Matrix Rain Quote -->
+<!-- Blue Theme Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 </div>
 
-<!-- Final Animated Messages -->
+<!-- Final White Animated Messages -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=16&duration=4000&pause=2000&color=00ff41&center=true&vCenter=true&random=true&width=800&lines=%3E_+System+logout+successful...;%3E_+Remember:+There+is+no+spoon+🥄;%3E_+May+the+source+be+with+you+⚡;%3E_+Keep+the+matrix+running...;%3E_+Powered+by+curiosity+%26+caffeine+☕;%3E_+Exit+code:+SUCCESS+✨" alt="Matrix Exit" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=true&width=800&lines=%3E_+System+logout+successful...;%3E_+Remember:+Code+is+poetry+in+motion+🎵;%3E_+May+the+force+be+with+your+code+⚡;%3E_+Keep+the+matrix+running...;%3E_+Powered+by+curiosity+%26+caffeine+☕;%3E_+Exit+code:+SUCCESS+✨" alt="White Exit" />
 </div>
 
 <div align="center">
